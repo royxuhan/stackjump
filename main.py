@@ -1,14 +1,6 @@
-### Roy Xu (hanx1) 15-112 Term Project ###
-### 112 Stack Jump Game ###
-
-# I tried to organize my code and get them into different files but for some reason it just doesn't work.
-# For example, I had all my constants in a constants.py file and imported constants.py file in my helpers.py file,
-# but it kept saying some of the constants are not defined.
-# So eventually I just gave up and included everything in this one file.
-# Sorry!
-
+### Roy Xu ###
 ### Main ###
-### Modified from pygamegame.py created by Lukas Peraza ###
+### Core structure modified from pygamegame.py created by Lukas Peraza ###
 
 import os
 import sys

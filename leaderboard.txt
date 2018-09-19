@@ -1,0 +1,21 @@
+15,Roy
+0,Hannah
+144,Jarvis
+35,Claire
+44,Jonathan
+0,Tank
+54,Lucky
+78,Eddie
+12,Serris
+1,Jon
+4,Edward
+3,Jon
+4,Hi
+0,I suck
+260,Training Bot
+0,asd
+168,Van
+83,Roy
+142,Kamyar
+110,Kosbie
+33,roy

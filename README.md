@@ -1,6 +1,8 @@
 # Stack Jump 
 Stack Jump is an arcade-like stacking game written in Python with Pygame, inspired by the mobile game Stack made by KetchApp. Besides the basic gameplay, player can choose one of two AI implementations to have the avatar jump by itself. 
 
+Project demo: https://youtu.be/uwaMxxZF6DQ
+
 HOW TO RUN 
 
 Run main.py under Project Codebase directory with any IDE to start the game. 
